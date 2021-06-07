@@ -12,4 +12,4 @@
 ### 4) MERN Stack
 
 ## Link
-### This is the link to the website http://intelligence-summerge.herokuapp.com/about
+### This is the link to the website: http://intelligence-summerge.herokuapp.com/
